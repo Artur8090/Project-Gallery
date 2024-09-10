@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.wrapper{
+    width: 100vw;
+    height: 100vh;
+}
+.header{
+    width: 100vw;
+    height: 20vh;
+    background-color: #002244;
+}
+.header img{
+    width: 40vw;
+    height: 30vh;
+    margin-left: 29%;
+    object-fit: cover;
+}
+.image-container-wrapper{
+    width: 100vw;
+    height: 80vh;
+    background-color: #2c3968;
+}
+
+.information-container-wrapper{
+    width: 100vw;
+    height: 100vh;
+    background-color: #545AA7;
+}
